@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+
+}
+#body {
+    background-color: #23263B;
+    color: #fff;
+    font-size: 27px;
+}
+
+#header {
+    background-color: #1f2235;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 80px;
+}
+
+#brand img {
+    width: 100px;
+}
+
+#navbar > ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+}
+
+.navItem a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 18px;
+}
+
+.navItem a:hover {
+    color: #ff4a47;
+}
+.icon a:hover {
+    color: #FF4A57;
+
+}
+.icon {
+    color: #fff;
+}
+h1 {
+    color: #fff; 
+    font-size: 54px;
+}
+
+.sectors{
+    padding: 300px;
+}
+
+#youtube {
+    padding: 0px;
+    text-align: center;
+}
